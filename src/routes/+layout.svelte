@@ -1,5 +1,7 @@
-<script>
+<script lang='ts'>
     import "../app.css";
-  </script>
+</script>
   
+<div class="bg-gray-800">
   <slot />
+</div>
