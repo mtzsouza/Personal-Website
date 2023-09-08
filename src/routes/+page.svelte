@@ -3,8 +3,8 @@
 </script>
 
 <div class="container max-w-[80%] sm:max-w-[30%] flex flex-col justify-center items-center">
-    <h1 class="py-8 antialiased text-4xl font-madi text-gray-900 font-semibold tracking-widest select-none">
+    <img src="https://i.imgur.com/QCN8Vgn.png" alt="bg" class="animate-bounce h-200">
+    <h1 class="antialiased text-4xl font-madi text-gray-200 font-semibold tracking-widest select-none hover:animate-pulse">
         Coming soon.
     </h1>
-    <img src="https://i.imgur.com/rCAUHwF.png" alt="bg" class="animate-bounce">
 </div>

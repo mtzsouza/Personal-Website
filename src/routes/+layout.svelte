@@ -2,7 +2,7 @@
     import "../app.css";
 </script>
   
-<div class="min-h-screen flex items-center justify-center bg-gradient-to-tr
-          from-sky-300 via-orange-100 to-sky-400">
+<div class="min-h-screen flex items-center justify-center bg-gradient-to-tr overdflow-hidden
+          from-black via-gray-900 to-black">
   <slot />
 </div>
