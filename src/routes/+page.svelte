@@ -1,1 +1,1 @@
-<h1 class="text-4xl text-white">TESTING</h1>
+<h1 class="text-4xl text-white">TEST</h1>
