@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+    .navItem {
+        @apply cursor-pointer font-semibold opacity-70 hover:opacity-100
+    }
+}
