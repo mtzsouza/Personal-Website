@@ -1,5 +1,6 @@
 <script lang='ts'>
   import "../app.css";
+  import { fade } from "svelte/transition"
 
   export let data;
 
@@ -50,7 +51,12 @@
             <a href="/contact" class="navItem" class:active={currentPage == '/contact'}>Contact</a>
           </div>
   </nav>
-  <div class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-30">
-    <slot/>
-  </div>
+  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-30 relative">
+        {#key currentPage}
+          <div class="h-full w-full flex items-center justify-center absolute"
+          in:fade={{ duration: 300, delay: 300}} out:fade={{ duration: 300 }}>
+            <slot/>
+          </div>
+        {/key}
+  </main>
 </div>
