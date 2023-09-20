@@ -35,14 +35,14 @@
 <div class="hidden sm:flex max-h-[95%] max-w-[90%] grid grid-flow-col grid-cols-2 justify-around overflow-hidden
             text-gray-100 antialiased font-bacasime">
     <div class="flex flex-col gap-12 max-w-[50%]">
-        <div class="text-5xl pt-12">
+        <div class="text-4xl pt-12">
             <span>I'm <span class="font-semibold">Matheus</span>,</span>
             <span>undergraduate Computer Science student.</span>
         </div>
-        <div class="text-4xl underline decoration-1">
+        <div class="text-3xl underline decoration-1">
             <span>Seeking Summer 2024 Software Engineering Internship</span>
         </div>
-        <div class="flex gap-5 justify-center text-4xl">
+        <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-github fa-xl" style="color: #ffffff;"></i>
             </a>
