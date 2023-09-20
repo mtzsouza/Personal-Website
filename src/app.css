@@ -4,7 +4,7 @@
 
 @layer utilities {
     .navItem {
-        @apply cursor-pointer font-semibold opacity-60 hover:opacity-95
+        @apply cursor-pointer font-bubbler font-bold uppercase tracking-widest opacity-60 hover:opacity-95
     }
 
     .navItem.active {
