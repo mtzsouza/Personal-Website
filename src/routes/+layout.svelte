@@ -51,7 +51,7 @@
             <a href="/contact" class="navItem" class:active={currentPage == '/contact'}>Contact</a>
           </div>
   </nav>
-  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-50 relative">
+  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-50 relative overflow-auto">
         {#key currentPage}
           <div class="h-full w-full flex items-center justify-center absolute"
           in:fade={{ duration: 800, delay: 400}} out:fade={{ duration: 400 }}>
