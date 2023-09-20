@@ -39,8 +39,8 @@
             <span>I'm <span class="font-semibold">Matheus</span>,</span>
             <span>undergraduate Computer Science student.</span>
         </div>
-        <div class="text-3xl underline decoration-1">
-            <span>Seeking Summer 2024 Software Engineering Internship</span>
+        <div class="text-3xl">
+            <span>Seeking Summer 2024 Software Engineering Internship opportunities</span>
         </div>
         <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
