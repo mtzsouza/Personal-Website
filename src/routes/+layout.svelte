@@ -54,7 +54,7 @@
   <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-30 relative overflow-auto">
         {#key currentPage}
           <div class="h-full w-full flex items-center justify-center absolute"
-          in:fade={{ duration: 800, delay: 400}} out:fade={{ duration: 400 }}>
+          in:fade={{ duration: 700, delay: 350}} out:fade={{ duration: 350 }}>
             <slot/>
           </div>
         {/key}
