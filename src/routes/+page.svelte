@@ -6,7 +6,7 @@
 <div class="sm:hidden max-h-[95%] max-w-[90%] grid grid-rows-3
             text-gray-100 antialiased font-bacasime">
     <div class="flex justify-center relative top-2">
-        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="animate-bounce">
+        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="object-cover overflow-visible animate-bounce">
     </div>
     <div class="flex flex-col gap-12 text-center text-3xl relative top-4">
         <div>
