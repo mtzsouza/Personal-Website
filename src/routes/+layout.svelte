@@ -25,7 +25,7 @@
 </script>
   
 <div class="h-screen flex flex-col items-center 
-            bg-gradient-to-br from-gray-900 via-gray-950 to-gray-950">
+            bg-gradient-to-br from-gray-900 via-gray-950 to-gray-950 overflow-hidden">
   <nav class="h-10 w-[85%] bg-blue-950 bg-opacity-30 z-20 my-4 px-8 sm:px-16 rounded-lg sm:h-12 sm:w-[92%]
           flex flex-col antialiased text-gray-100 transition-all duration-500" class:h-20={menuOpen}>
           <div class="w-full flex flex-row justify-between items-center antialiased">

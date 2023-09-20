@@ -6,7 +6,7 @@
 <div class="sm:hidden max-h-[95%] max-w-[90%] grid grid-rows-3
             text-gray-100 antialiased font-bacasime">
     <div class="flex justify-center">
-        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="animate-bounce">
+        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="object-cover overflow-visible animate-bounce">
     </div>
     <div class="flex flex-col gap-12 text-center text-3xl">
         <div>
@@ -40,7 +40,7 @@
             <span>undergraduate Computer Science student.</span>
         </div>
         <div class="text-3xl">
-            <span>Seeking Summer 2024 Software Engineering Internship opportunities</span>
+            <span>Seeking Summer 2024 Software Engineering Internship</span>
         </div>
         <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
