@@ -26,7 +26,7 @@
   
 <div class="h-screen flex flex-col items-center 
             bg-gradient-to-br from-gray-900 via-gray-950 to-gray-950">
-  <nav class="h-10 w-[85%] bg-blue-950 bg-opacity-30 z-20 my-4 px-8 sm:px-16 rounded-lg sm:h-12 sm:w-[92%]
+  <nav class="h-10 w-[85%] bg-blue-950 bg-opacity-50 z-20 my-4 px-8 sm:px-16 rounded-lg sm:h-12 sm:w-[92%]
           flex flex-col antialiased text-gray-100 transition-all duration-500" class:h-20={menuOpen}>
           <div class="w-full flex flex-row justify-between items-center antialiased">
             <a href="/" class="font-madi text-4xl sm:text-6xl cursor-pointer relative sm:right-6 sm:top-1">
@@ -39,22 +39,22 @@
             </div>
             <!-- Desktop menu items -->
             <div class="hidden sm:flex relative bottom-1.5 gap-24">
-              <a href="/" class="navItem" class:active={currentPage == '/'}>Home</a>
+              <a href="/" class="navItem" class:active={currentPage == '/'}>About</a>
               <a href="/projects" class="navItem" class:active={currentPage == '/projects'}>Projects</a>
               <a href="/contact" class="navItem" class:active={currentPage == '/contact'}>Contact</a>
             </div>
           </div>
           <!-- Mobile menu items -->
           <div class="sm:hidden py-3 w-full flex justify-around" class:hidden={!menuItems}>
-            <a href="/" class="navItem" class:active={currentPage == '/'}>Home</a>
+            <a href="/" class="navItem" class:active={currentPage == '/'}>About</a>
             <a href="/projects" class="navItem" class:active={currentPage == '/projects'}>Projects</a>
             <a href="/contact" class="navItem" class:active={currentPage == '/contact'}>Contact</a>
           </div>
   </nav>
-  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-30 relative">
+  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-50 relative">
         {#key currentPage}
           <div class="h-full w-full flex items-center justify-center absolute"
-          in:fade={{ duration: 300, delay: 300}} out:fade={{ duration: 300 }}>
+          in:fade={{ duration: 800, delay: 400}} out:fade={{ duration: 400 }}>
             <slot/>
           </div>
         {/key}

@@ -6,7 +6,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        madi: "'Ms Madi', serif"
+        madi: "'Ms Madi', serif",
+        bacasime:"Bacasime Antique, serif"
       },
       animation: {
         bounce: 'bounce 2.5s infinite',
