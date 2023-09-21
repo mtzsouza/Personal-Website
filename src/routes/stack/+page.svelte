@@ -64,10 +64,10 @@
             <img width="96" height="96" src="https://img.icons8.com/color/96/mysql-logo.png" alt="mysql-logo"/>
         </div>
         <div class="flex items-center justify-center max-w-[25%]">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/unreal-engine.png" alt="unreal-engine"/>
+            <img width="100" height="100" src="https://img.icons8.com/fluency/100/azure-1.png" alt="azure-1"/>
         </div>
         <div class="flex items-center justify-center max-w-[25%]">
-            <img width="96" height="96" src="https://img.icons8.com/color/96/davinci-resolve.png" alt="davinci-resolve"/>
+            <img width="100" height="100" src="https://img.icons8.com/ios-filled/100/FFFFFF/unreal-engine.png" alt="unreal-engine"/>
         </div>
     </div>
 </div>
