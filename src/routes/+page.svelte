@@ -5,8 +5,8 @@
 <!-- Mobile -->
 <div class="sm:hidden max-h-[95%] max-w-[90%] grid grid-rows-3
             text-gray-100 antialiased font-bubbler">
-    <div class="flex justify-center relative top-2">
-        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="object-cover overflow-visible animate-bounce">
+    <div class="flex justify-center relative top-4">
+        <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="object-cover overflow-visible animate-bounce">
     </div>
     <div class="flex flex-col gap-12 text-center text-3xl relative top-4">
         <div>
@@ -25,8 +25,8 @@
                 <i class="fa-solid fa-file-pdf fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
-        <div>
-            <span>I'm currently seeking Summer 2024 Software Engineering Internship opportunities.</span>
+        <div class="pb-8">
+            <span>I'm a creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
         </div>
     </div>
 </div>
@@ -40,7 +40,7 @@
             <span>undergraduate Computer Science student.</span>
         </div>
         <div class="text-3xl">
-            <span>I'm currently seeking Summer 2024 Software Engineering Internship opportunities.</span>
+            <span>I'm a creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
         </div>
         <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
@@ -55,6 +55,6 @@
         </div>
     </div>
     <div class="flex justify-center max-w-[50%] relative bottom-10">
-        <img src="https://i.imgur.com/XW1tkoQ.png" alt="img" class="object-cover overflow-visible animate-bounce">
+        <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="object-cover overflow-visible animate-bounce">
     </div>
 </div>

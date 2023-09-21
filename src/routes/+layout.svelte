@@ -45,7 +45,7 @@
             </div>
           </div>
           <!-- Mobile menu items -->
-          <div class="sm:hidden py-3 w-full flex justify-around" class:hidden={!menuItems}>
+          <div class="sm:hidden py-3 w-full flex justify-evenly gap-4" class:hidden={!menuItems}>
             <a href="/" class="navItem" class:active={currentPage == '/'}>About</a>
             <a href="/stack" class="navItem" class:active={currentPage == '/stack'}>Tech Stack</a>
             <a href="/projects" class="navItem" class:active={currentPage == '/projects'}>Projects</a>
