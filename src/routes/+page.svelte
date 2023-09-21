@@ -21,7 +21,7 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #ffffff;"></i>
             </a>
-            <a href="" target="_blank" rel="noreferrer noopener" class="hidden">
+            <a href="src\lib\Utils\Matheus-Souza-Resume.pdf" target="_blank" rel="noreferrer noopener">
                 <i class="fa-solid fa-file-pdf fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
@@ -49,7 +49,7 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #ffffff;"></i>
             </a>
-            <a href="" target="_blank" rel="noreferrer noopener" class="hidden">
+            <a href="src\lib\Utils\Matheus-Souza-Resume.pdf" target="_blank" rel="noreferrer noopener">
                 <i class="fa-solid fa-file-pdf fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
