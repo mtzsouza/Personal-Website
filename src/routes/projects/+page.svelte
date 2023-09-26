@@ -2,9 +2,60 @@
 
 </script>
 
-<div class="flex flex-col justify-center items-center">
-    <img src="https://i.imgur.com/QCN8Vgn.png" alt="bg" class="animate-bounce h-200">
-    <h1 class="antialiased text-4xl font-madi text-gray-200 font-semibold tracking-widest select-none hover:animate-pulse">
-        Coming soon.
-    </h1>   
+<!-- Mobile -->
+<div class="h-[90%] w-full grid sm:hidden items-start justify-evenly px-4 gap-2">
+    <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
+        <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden opacity-90">
+            <img src="https://i.imgur.com/5qiqfsX.png" alt="">
+        </div>
+    </a>
+    <div>
+        <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden opacity-90 cursor-default">
+            <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+        </div>
+    </div>
+    <div>
+        <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden opacity-90">
+            <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+        </div>
+    </div>
+</div>
+
+<!-- Desktop -->
+<div class="hidden h-[90%] w-full sm:grid grid-flow-row items-center justify-evenly px-4">
+    <div class="h-full w-full grid grid-flow-col items-center gap-20">
+        <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden 
+            hover:scale-110 transform transition duration-300 opacity-90">
+                <img src="https://i.imgur.com/5qiqfsX.png" alt="">
+            </div>
+        </a>
+        <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
+                <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+            </div>
+        </a>
+        <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
+                <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+            </div>
+        </a>
+    </div>
+    <div class="h-full w-full grid grid-flow-col items-center gap-20">
+        <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
+                <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+            </div>
+        </a>
+        <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
+                <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+            </div>
+        </a>
+        <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
+            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
+                <img src="https://i.imgur.com/qLCcJLy.png" alt="" class="opacity-10">
+            </div>
+        </a>
+    </div>
 </div>

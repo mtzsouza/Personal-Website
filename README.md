@@ -1,8 +1,6 @@
 
 # mattsouza.dev/
 
-#### Video Demo: <https://www.youtube.com/watch?v=P4IWyp7gN_U>
-
 #### Description:
 This is a CS50 project. It's intended to showcase skills I've learned during and after the course. Indeed, the foundation of my web development knowledge comes from CS50 but other essential skills for creating this website were acquired later. 
 
@@ -40,4 +38,4 @@ Finally, these are files that I created and/or modified for my personal website.
 
 **src/routes/stack/+page.svelte**: Here I display icons of all the technologies that I'm acquainted with.
 
-**src/routes/projects/+page.svelte**: This route is currently empty, but it's designed to hold all the projects that I want to showcase in the future.
+**src/routes/projects/+page.svelte**: It's designed to hold all the projects that I want to showcase in the future.
