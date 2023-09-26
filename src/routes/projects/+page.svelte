@@ -5,7 +5,7 @@
 <!-- Mobile -->
 <div class="h-[90%] w-full grid sm:hidden items-start justify-evenly px-4 gap-2">
     <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
-        <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden opacity-90">
+        <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden">
             <img src="https://i.imgur.com/5qiqfsX.png" alt="">
         </div>
     </a>
@@ -26,7 +26,7 @@
     <div class="h-full w-full grid grid-flow-col items-center gap-20">
         <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
             <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden 
-            hover:scale-110 transform transition duration-300 opacity-90">
+            hover:scale-110 transform transition duration-300">
                 <img src="https://i.imgur.com/5qiqfsX.png" alt="">
             </div>
         </a>
