@@ -21,7 +21,7 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #ffffff;"></i>
             </a>
-            <a href="https://drive.google.com/file/d/1d4GeC6XxfWGqVwc8OnQOSVr5r8u1daZ9/view?usp=sharing" target="_blank" rel="noreferrer noopener">
+            <a href="https://drive.google.com/file/d/14ZkFULArHfha7-Y6Wk4XNT6aoMWVpyFJ/view?usp=sharing" target="_blank" rel="noreferrer noopener">
                 <i class="fa-solid fa-file-pdf fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
