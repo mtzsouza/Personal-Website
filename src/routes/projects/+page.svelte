@@ -26,7 +26,7 @@
     <div class="h-full w-full grid grid-flow-col items-center gap-20">
         <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
             <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden 
-            hover:scale-110 hover:skew-y-2 hover:-skew-x-2 transform transition duration-300">
+            hover:scale-110 hover:skew-y-2 hover:-skew-x-2 hover:brightness-150 transform transition duration-300">
                 <img src="https://i.imgur.com/5qiqfsX.png" alt="">
             </div>
         </a>
