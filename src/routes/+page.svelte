@@ -26,7 +26,7 @@
             </a>
         </div>
         <div class="pb-8">
-            <span>I'm a creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
+            <span>Creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
         </div>
     </div>
 </div>
@@ -40,7 +40,7 @@
             <span>undergraduate Computer Science student.</span>
         </div>
         <div class="text-3xl">
-            <span>I'm a creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
+            <span>Creative fullstack developer and avid game design enthusiast who seeks new tech interests and opportunities to grow.</span>
         </div>
         <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
