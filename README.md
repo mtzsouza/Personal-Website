@@ -1,9 +1,7 @@
 
-# mattsouza.dev/
-
-#### Set up:
-To set up this project with SvelteKit and Tailwind, I referred to the following documentation:
-##### Setting up Tailwind CSS with Sveltkit: <https://tailwindcss.com/docs/guides/sveltekit>
+## Set up:
+To set up with SvelteKit and Tailwind, I referred to the following documentation:
+##### Tailwind CSS with Sveltkit: <https://tailwindcss.com/docs/guides/sveltekit>
 
 Then I set up Firebase hosting by creating my Firebase Blaze account and running the following commands:
 ```
