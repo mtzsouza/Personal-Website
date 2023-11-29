@@ -6,7 +6,7 @@
 <div class="sm:hidden max-h-[95%] max-w-[90%] grid grid-rows-3 py-4
             text-gray-100 antialiased font-bubbler">
     <div class="flex justify-center relative top-4">
-        <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="animate-bounce w-[40vw] h-[40vw]">
+        <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="animate-bounce w-[55vw] h-[55vw]">
     </div>
     <div class="flex flex-col gap-2 text-2xl relative top-4 px-4">
         <div>
