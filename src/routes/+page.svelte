@@ -13,7 +13,7 @@
             <span class="font-semibold">Hello,</span>
         </div>
         <div class="pb-8">
-            <span>I'm a forward-thinking CS student, adept in full-stack development and crafting practical solutions with code.</span>
+            <span>I'm an adaptable and driven computer science student with diverse skills in software engineering, full-stack development, and emerging technologies. Fluent in English, Spanish, and Portuguese.</span>
         </div>
         <div class="flex gap-5 justify-center">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
@@ -37,7 +37,7 @@
             <span class="font-semibold">Hello!</span>
         </div>
         <div class="text-3xl">
-            <span>I'm a forward-thinking CS student, adept in full-stack development and crafting practical solutions with code.</span>
+            <span>I'm an adaptable and driven computer science student with diverse skills in software engineering, full-stack development, and emerging technologies. Fluent in English, Spanish, and Portuguese.</span>
         </div>
         <div class="flex gap-5 justify-center text-3xl">
             <a href="https://github.com/mtzsouza" target="_blank" rel="noreferrer noopener">
