@@ -22,7 +22,7 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #ffffff;"></i>
             </a>
-            <a href="https://drive.google.com/file/d/143N5jNXtM11ft7_a-jYSAOHDMIHty0jL/view?usp=sharing" target="_blank" rel="noreferrer noopener">
+            <a href="https://drive.google.com/file/d/1YGMe66hTptEfjz2HSwR4DJuTVl0Zu23R/view?usp=sharing" target="_blank" rel="noreferrer noopener">
                 <i class="fa-solid fa-file-lines fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
@@ -46,7 +46,7 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #ffffff;"></i>
             </a>
-            <a href="https://drive.google.com/file/d/143N5jNXtM11ft7_a-jYSAOHDMIHty0jL/view?usp=sharing" target="_blank" rel="noreferrer noopener">
+            <a href="https://drive.google.com/file/d/1YGMe66hTptEfjz2HSwR4DJuTVl0Zu23R/view?usp=sharing" target="_blank" rel="noreferrer noopener">
                 <i class="fa-solid fa-file-lines fa-xl" style="color: #ffffff;"></i>
             </a>
         </div>
