@@ -24,6 +24,12 @@ export default {
     },
     colors: {
       ...colors,
+      'tan-50': '#faf7f3',
+      'tan-100': '#ede1d1',
+      'tan-200': '#e4d2ba',
+      'tan-300': '#dfcaae',
+      'tan-400': '#d6bb97',
+      'tan-500': '#d2b48c'
     }
   },
   plugins: []

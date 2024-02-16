@@ -25,9 +25,9 @@
 </script>
   
 <div class="h-screen flex flex-col items-center 
-            bg-gradient-to-br from-gray-900 via-gray-950 to-gray-950 overflow-hidden">
-  <nav class="h-10 w-[85%] bg-blue-950 bg-opacity-30 z-20 my-4 px-8 sm:px-16 rounded-lg sm:h-12 sm:w-[92%]
-          flex flex-col antialiased text-gray-100 transition-all duration-500" class:h-20={menuOpen}>
+            bg-gradient-to-br from-tan-200 via-tan-200 to-tan-100 overflow-hidden">
+  <nav class="h-10 w-[85%] bg-tan-500 bg-opacity-90 z-20 my-4 px-8 sm:px-16 rounded-lg sm:h-12 sm:w-[92%]
+          flex flex-col antialiased text-gray-900 transition-all duration-500" class:h-20={menuOpen}>
           <div class="w-full flex flex-row justify-between items-center antialiased">
             <a href="/" class="font-madi text-4xl sm:text-6xl cursor-pointer relative sm:right-6 sm:top-1 lg:left-12">
               Matheus Souza
@@ -35,7 +35,7 @@
             <!-- svelte-ignore a11y-click-events-have-key-events -->
             <!-- svelte-ignore a11y-no-static-element-interactions -->
             <div class="sm:hidden text-xl opacity-80" on:click={toggleMenu}>
-              <i class="fa-solid fa-bars" style="color: #ffffff;"></i>
+              <i class="fa-solid fa-bars" style="color: #111827;"></i>
             </div>
             <!-- Desktop menu items -->
             <div class="hidden sm:flex relative bottom-1.5 gap-24">
@@ -51,7 +51,7 @@
             <a href="/projects" class="navItem" class:active={currentPage == '/projects'}>Projects</a>
           </div>
   </nav>
-  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-blue-950 bg-opacity-30 relative overflow-auto">
+  <main class="h-[85%] w-[85%] sm:w-[92%] rounded-lg flex items-center justify-center bg-tan-500 bg-opacity-90 relative overflow-auto">
         {#key currentPage}
           <div class="h-full w-full flex items-center justify-center absolute"
           in:fade={{ duration: 700, delay: 350}} out:fade={{ duration: 350 }}>
