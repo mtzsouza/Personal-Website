@@ -25,13 +25,13 @@
 <div class="hidden h-[90%] w-full sm:grid grid-flow-row items-center justify-evenly px-4">
     <div class="h-full w-full grid grid-flow-col items-center gap-20">
         <a href="https://www.youtube.com/watch?v=BWpijxhNzvY" target="_blank" rel="noreferrer noopener">
-            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden 
+            <div class="rounded-lg border-solid border-gray-900 border-2 overflow-hidden 
             hover:scale-110 hover:skew-y-2 hover:-skew-x-2 hover:brightness-150 transform transition duration-300">
                 <img src="https://i.imgur.com/5qiqfsX.png" alt="">
             </div>
         </a>
         <a href="" class="cursor-default rounded-lg border-solid overflow-hidden">
-            <div class="rounded-lg border-solid border-blue-950 border-2 overflow-hidden opacity-10">
+            <div class="rounded-lg border-solid border-gray-900 border-2 overflow-hidden opacity-10">
                 <img src="https://i.imgur.com/qLCcJLy.png" alt="">
             </div>
         </a>

@@ -9,7 +9,7 @@
         <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="animate-bounce w-[55vw] h-[55vw]">
     </div>
     <div class="flex flex-col gap-2 text-2xl relative top-4 px-4">
-        <div class="font-semibold text-center text-3xl py-12">
+        <div class="font-semibold text-center text-3xl py-8">
             <h1>Full-Stack Engineer</h1>
             <h1>&</h1>
             <h1>Machine Learning Enthusiast</h1>
@@ -21,10 +21,12 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #111827;"></i>
             </a>
-            <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener">
-                <i class="fa-solid fa-file-lines fa-xl" style="color: #111827;"></i>
-            </a>
         </div>
+        <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener"
+        class="font-bubbler font-semibold text-center text-xl text-tan-400 border rounded bg-gray-900 border-gray-900 mx-12 py-1 h-10">
+            <i class="fa-solid fa-file-lines fa-md mx-2" style="color: #d6bb97;"></i>
+            Resume
+        </a>
     </div>
 </div>
 
@@ -44,10 +46,12 @@
             <a href="https://linkedin.com/in/mtzsouza/" target="_blank" rel="noreferrer noopener">
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #111827;"></i>
             </a>
-            <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener">
-                <i class="fa-solid fa-file-lines fa-xl" style="color: #111827;"></i>
-            </a>
         </div>
+        <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener"
+        class="font-bubbler font-semibold text-center text-2xl text-tan-400 border rounded bg-gray-900 border-gray-900 mx-40 py-1 h-10">
+            <i class="fa-solid fa-file-lines fa-md mx-2" style="color: #d6bb97;"></i>
+            Resume
+        </a>
     </div>
     <div class="flex justify-center max-w-[45%] relative bottom-10">
         <img src="https://i.imgur.com/Uo4nGZx.png" alt="img" class="object-cover overflow-visible animate-bounce">
