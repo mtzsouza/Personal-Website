@@ -22,7 +22,7 @@
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #111827;"></i>
             </a>
         </div>
-        <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener"
+        <a href="https://drive.google.com/file/d/1Gpo1XMi802vTSSXN2Kelt1RA-ZEqf4Pf/view?usp=sharing" target="_blank" rel="noreferrer noopener"
         class="font-bubbler font-semibold text-center text-xl text-tan-400 border rounded bg-gray-900 border-gray-900 mx-12 py-1 h-10">
             <i class="fa-solid fa-file-lines fa-md mx-2" style="color: #d6bb97;"></i>
             Resume
@@ -47,7 +47,7 @@
                 <i class="fa-brands fa-linkedin fa-xl" style="color: #111827;"></i>
             </a>
         </div>
-        <a href="https://drive.google.com/file/d/1vR2t1dz1BdmSvVcTWTBB-Dz66IRBiLw1/view?usp=sharing" target="_blank" rel="noreferrer noopener"
+        <a href="https://drive.google.com/file/d/1Gpo1XMi802vTSSXN2Kelt1RA-ZEqf4Pf/view?usp=sharing" target="_blank" rel="noreferrer noopener"
         class="font-bubbler font-semibold text-center text-2xl text-tan-400 border rounded bg-gray-900 border-gray-900 mx-40 py-1 h-10">
             <i class="fa-solid fa-file-lines fa-md mx-2" style="color: #d6bb97;"></i>
             Resume
